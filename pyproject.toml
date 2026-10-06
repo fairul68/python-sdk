@@ -1,4 +1,4 @@
-.Run
+
 name = "mcp"
 dynamic = ["version", "dependencies"]
 description = "Model Context Protocol SDK"
