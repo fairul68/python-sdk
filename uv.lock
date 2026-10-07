@@ -10,6 +10,7 @@ resolution-markers = [
 [manifest]
 members = [
     "mcp",
+    "mcp[cli]"
     "mcp-everything-server",
     "mcp-example-stories",
     "mcp-simple-auth",
